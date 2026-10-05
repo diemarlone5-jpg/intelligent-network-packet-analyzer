@@ -1,0 +1,14 @@
+﻿# Environnement virtuel Python
+.venv/
+venv/
+ENV/
+
+# Fichiers de configuration et clés API
+.env
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Données de captures locales
+capture_output.json
